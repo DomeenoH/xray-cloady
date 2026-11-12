@@ -1,0 +1,1 @@
+{"inbounds":[{"port":3000,"protocol":"vless","settings":{"clients":[{"flow":"","id":"UUID_PLACEHOLDER"}],"decryption":"none"},"streamSettings":{"network":"ws","wsSettings":{"path":"/tk-rail"}}}],"log":{"loglevel":"warning"},"outbounds":[{"protocol":"freedom","settings":{}}]}
